@@ -1,13 +1,36 @@
-# Demos
+# Demos (Working Name)
 
-Demos is a non-profit project aimed at fixing democracy. This repository contains scripts for the Demos YouTube channel.
+This repository has scripts for the Demos YouTube channel.
 
-# Lorem Ipsum
+Demos is a non-profit project aimed at fixing democracy. For more information see [our website](link).
 
-Lorem ipsum dolor sit amet.
+# git
 
-...
+## Why use git?
 
-# Get Involved
+(Pull Requests enable community contribution)
 
-If you want to get involved then email demosnonprofit@gmail.com.
+(Bonus: Transparency)
+
+## Getting started with git
+
+* (Resource Link)
+* (Resource Link)
+
+# Contribute
+
+## Donate
+
+We are a small team with low overhead. Your donations make a difference.
+
+[How we use financial donations](Link).
+
+(Patreon Link)
+
+(Non-patreon donation link)
+
+## Lend a hand
+
+* factcheck@demos.org
+* feedback@demos.org
+* contact@demos.org
