@@ -2,7 +2,7 @@
 
 This repository has scripts for the Demos YouTube channel.
 
-Demos is a non-profit project aimed at fixing democracy. For more information see [our website](link).
+Demos is a non-profit project aimed at fixing democracy.
 
 # git
 
